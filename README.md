@@ -1,2 +1,2 @@
 # pytorch_hooks
-experimenting around with pytorch hooks
+Demonstrats how to make a model summary and dynamic UNET using pytorch hooks
